@@ -1,3 +1,8 @@
+# GPT-3 Website using React JS
+
+![GPT3-01](https://github.com/[muliasw12]/[GPT3-Website]/blob/[master]/gpt3-01.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
